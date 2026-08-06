@@ -17,6 +17,3 @@ else
 fi
 echo "DISK USAGE:" 
 df -h
-
-
-
